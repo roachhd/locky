@@ -126,7 +126,7 @@ hr {
 footer {
   background: #fff;
   background: rgba(255,255,255,0.9);
-  background-image:url(../img/footer.png);
+  background-image:url(http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/footer.png);
   background-size:cover;
   background-repeat:no-repeat;
   max-width: 100%;
@@ -212,7 +212,7 @@ footer p {
 .navbar-default {
   background:#000;
   border: none;
-  background-image: url('../img/navbar-bg.png');
+  background-image: url('http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/navbar-bg.png');
   background-repeat: repeat;
   background-size:cover;
   background-size:10%;
