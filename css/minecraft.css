@@ -3,11 +3,11 @@ to whatever font you want it to be. Please note that usage of multiple fonts
 can slow down the load times of your website drastically. I reccomend using 1 or 2 fonts.*/
 @font-face {
  font-family: 'Minecraft';
- src: url('../fonts/Minecraft.eot'); /* For Internet Explorer 6+ */
+ src: url('http://alistairreilly.com/fonts/Minecraft.eot'); /* For Internet Explorer 6+ */
 }
 @font-face {
  font-family: 'Minecraft';
- src: url('../fonts/Minecraft.ttf'); /* For Non-Internet Explorer browsers */
+ src: url('http://alistairreilly.com/fonts/Minecraft.ttf'); /* For Non-Internet Explorer browsers */
 }
 /*This gives the opacity effect upon hover, use this class if you want this effect to happen (Currently used on social icons)*/
 .image-effect-opacity:hover {
@@ -17,7 +17,7 @@ filter:alpha(opacity=40); /* For IE8 and earlier */
 
 
 body {
-  background: url(../img/bg.png) no-repeat center center fixed;
+  background: url(http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/bg.png) no-repeat center center fixed;
   background-repeat:repeat; 
 }
 
@@ -47,7 +47,7 @@ hr {
 .brand,
 .address-bar {
   display: none;
-  background-image:url(../img/bg-header.png);
+  background-image:url(<a href="http://s899.photobucket.com/user/bokchoy08/media/Mobile%20Uploads/bg-header.png.html" target="_blank"><img src="http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/bg-header.png" border="0" alt="bg-header photo bg-header.png"/></a>);
   background-size:contain;
   max-width: 100%;
   height: auto;
@@ -126,7 +126,7 @@ hr {
 footer {
   background: #fff;
   background: rgba(255,255,255,0.9);
-  background-image:url(../img/footer.png);
+  background-image:url(http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/footer.png);
   background-size:cover;
   background-repeat:no-repeat;
   max-width: 100%;
@@ -212,7 +212,7 @@ footer p {
 .navbar-default {
   background:#000;
   border: none;
-  background-image: url('../img/navbar-bg.png');
+  background-image: url('http://i899.photobucket.com/albums/ac196/bokchoy08/Mobile%20Uploads/navbar-bg.png');
   background-repeat: repeat;
   background-size:cover;
   background-size:10%;
